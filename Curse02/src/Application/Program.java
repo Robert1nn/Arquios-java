@@ -35,7 +35,7 @@ public class Program {
 		
 		scanner.close();
 		
-
+		System.out.println();
 	}
 
 }
